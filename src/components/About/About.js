@@ -19,8 +19,8 @@ function About() {
         by building a creative and diverse global team and by making a positive impact in communities 
         where we live and work. Based in Beaverton, Oregon, NIKE, Inc. includes the Nike, Converse, 
         and Jordan brands.
-
-        </p>
+        
+      </p>
       </div>
     </div>
   );
